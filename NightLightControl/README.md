@@ -30,7 +30,7 @@ See below for a more detailed description of each setting.
 **Door/Window/Gate/etc. Sensors**
 
 One or more sensor entities that report an open/closed state. This would
-typically be something like a garage car door, a patio door, a window, or a gate,
+typically be something like a garage door, a patio door, a window, or a gate,
 but it can be any binary sensor that reports its status as on/off.
 
 If the item you select is open, i.e., its binary sensor state is "on", the
