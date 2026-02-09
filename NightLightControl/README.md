@@ -12,7 +12,9 @@ will be set to a different colour. Finally, if none of the other conditions
 are met but the room is dark, the night light will be set to a configurable
 colour at a lower level of brightness.
 
-[![Import blueprint](https://my.home-assistant.io/badges/blueprint_import.svg)](https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https://raw.githubusercontent.com/rosenqui/HomeAssistant/refs/heads/night-light-control/main/night_light_control.yaml)
+
+[![Import blueprint](https://my.home-assistant.io/badges/blueprint_import.svg)](https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https://raw.githubusercontent.com/rosenqui/HomeAssistant/refs/heads/main/NightLightControl/night_light_control.yaml)
+
 
 If you find this useful and would like to show your support, please
 click on the **🩷&nbsp;Sponsor** button in my GitHub repo.
